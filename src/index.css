@@ -1,13 +1,77 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+*{
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.main-container{
+  background-image: url("/src/Assets/kayneWest.jpg");
 }
+
+/* Rules for the heading */
+
+.heading-section{
+  display: flex;
+  align-items: center;
+}
+
+.heading-name{
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 4rem;
+  font-family: 'Abril Fatface', sans-serif;
+  text-decoration: line-through;
+  transition: text-decoration 10s;
+}
+
+.heading-name:hover{
+  text-decoration: underline;
+}
+
+/* Rules for the heading */
+
+/* Rules for Quote Container */
+
+.center-container{
+  padding: 10% 10%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  border: 5px solid black;
+  background-color: #ececec;
+  display: flex;
+  align-items: center;
+}
+
+.quote-container{
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Anton', sans-serif;
+  font-size: 2rem;
+  text-align-last: center;
+}
+
+/* Rules for Quote Container */
+
+/* Rules for the Get Quote Button */
+
+.button-section{
+  display: flex;
+  align-items: center;
+}
+
+.quote-button{
+  border: 2.5px solid black;
+  width: 25rem;
+  font-size: 1.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0px 0px 5px black;
+  transition: border 0.3s , background-color 0.4s;
+}
+
+.quote-button:hover{
+  color: white;
+  border: 2.5px solid #ececec;
+  background-color: black;
+}
+
+/* Rules for the Get Quote Button */
