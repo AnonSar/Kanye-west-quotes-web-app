@@ -1,19 +1,19 @@
-*{
+* {
   box-sizing: border-box;
 }
 
-.main-container{
+.main-container {
   background-image: url("/src/Assets/kayneWest.jpg");
 }
 
 /* Rules for the heading */
 
-.heading-section{
+.heading-section {
   display: flex;
   align-items: center;
 }
 
-.heading-name{
+.heading-name {
   margin-left: auto;
   margin-right: auto;
   font-size: 4rem;
@@ -22,7 +22,7 @@
   transition: text-decoration 10s;
 }
 
-.heading-name:hover{
+.heading-name:hover {
   text-decoration: underline;
 }
 
@@ -30,7 +30,7 @@
 
 /* Rules for Quote Container */
 
-.center-container{
+.center-container {
   padding: 10% 10%;
   margin-left: 5%;
   margin-right: 5%;
@@ -41,7 +41,7 @@
   align-items: center;
 }
 
-.quote-container{
+.quote-container {
   margin-left: auto;
   margin-right: auto;
   font-family: 'Anton', sans-serif;
@@ -53,22 +53,22 @@
 
 /* Rules for the Get Quote Button */
 
-.button-section{
+.button-section {
   display: flex;
   align-items: center;
 }
 
-.quote-button{
+.quote-button {
   border: 2.5px solid black;
   width: 25rem;
   font-size: 1.5rem;
   margin-left: auto;
   margin-right: auto;
   box-shadow: 0px 0px 5px black;
-  transition: border 0.3s , background-color 0.4s;
+  transition: border 0.3s, background-color 0.4s;
 }
 
-.quote-button:hover{
+.quote-button:hover {
   color: white;
   border: 2.5px solid #ececec;
   background-color: black;
