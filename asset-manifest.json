@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Kanye-west-quotes-web-app/static/css/main.9523578c.chunk.css",
+    "main.js": "/Kanye-west-quotes-web-app/static/js/main.dccbf234.chunk.js",
+    "main.js.map": "/Kanye-west-quotes-web-app/static/js/main.dccbf234.chunk.js.map",
+    "runtime-main.js": "/Kanye-west-quotes-web-app/static/js/runtime-main.2b4dd447.js",
+    "runtime-main.js.map": "/Kanye-west-quotes-web-app/static/js/runtime-main.2b4dd447.js.map",
+    "static/js/2.9352fa46.chunk.js": "/Kanye-west-quotes-web-app/static/js/2.9352fa46.chunk.js",
+    "static/js/2.9352fa46.chunk.js.map": "/Kanye-west-quotes-web-app/static/js/2.9352fa46.chunk.js.map",
+    "index.html": "/Kanye-west-quotes-web-app/index.html",
+    "precache-manifest.5c8faee6b658d400cb42865477303d67.js": "/Kanye-west-quotes-web-app/precache-manifest.5c8faee6b658d400cb42865477303d67.js",
+    "service-worker.js": "/Kanye-west-quotes-web-app/service-worker.js",
+    "static/css/main.9523578c.chunk.css.map": "/Kanye-west-quotes-web-app/static/css/main.9523578c.chunk.css.map",
+    "static/js/2.9352fa46.chunk.js.LICENSE.txt": "/Kanye-west-quotes-web-app/static/js/2.9352fa46.chunk.js.LICENSE.txt",
+    "static/media/backgroundVideo.mp4": "/Kanye-west-quotes-web-app/static/media/backgroundVideo.4f878a42.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b4dd447.js",
+    "static/js/2.9352fa46.chunk.js",
+    "static/css/main.9523578c.chunk.css",
+    "static/js/main.dccbf234.chunk.js"
+  ]
+}
