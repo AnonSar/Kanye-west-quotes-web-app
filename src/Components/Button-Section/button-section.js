@@ -1,11 +1,13 @@
-import React from "react";
+import React, { Component } from "react";
 
-const ButtonSection = () => {
-  return (
-    <div className="button-section">
-      <button className="quote-button">GET ME THE QUOTE</button>
-    </div>
-  );
+class ButtonSection extends Component {
+  render() {
+    return (
+      <div className="button-section">
+        <button className="quote-button" onClick = {this.props.handleButtonClick}>CLICK ME</button>
+      </div>
+    );
+  }
 };
 
 export default ButtonSection;

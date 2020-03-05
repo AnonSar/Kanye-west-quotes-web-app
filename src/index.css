@@ -1,9 +1,6 @@
 * {
   box-sizing: border-box;
-}
-
-.main-container {
-  background-image: url("/src/Assets/kayneWest.jpg");
+  z-index: 10;
 }
 
 /* Rules for the heading */
@@ -60,7 +57,7 @@
 
 .quote-button {
   border: 2.5px solid black;
-  width: 25rem;
+  width: 20rem;
   font-size: 1.5rem;
   margin-left: auto;
   margin-right: auto;
@@ -75,3 +72,17 @@
 }
 
 /* Rules for the Get Quote Button */
+
+/* Rules for the background video */
+
+/* Style the video: 100% width and height to cover the entire window */
+
+.myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* Rules for the background video */
