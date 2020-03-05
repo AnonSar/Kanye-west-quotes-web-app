@@ -73,12 +73,20 @@
   background-color: black;
 }
 
+.quote-button:focus {
+  outline: 0;
+}
+
 /* Rules for the Get Quote Button */
 
 /* Rules for the background video */
 
-.backgroundVideo{
-  z-index: -1;
+.backgroundVideo {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  min-height: 100vh;
+  min-width: 100vw;
 }
 
 /* Rules for the background video */
