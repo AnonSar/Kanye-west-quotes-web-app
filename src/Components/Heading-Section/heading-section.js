@@ -5,7 +5,7 @@ const HeadingSection = () => {
   return (
     <div>
       <div className="heading-section">
-        <h1 className="heading-name">.</h1>
+        <h1 className="heading-name">KANYE WEST QUOTES</h1>
       </div>
       <QuoteContainer />
     </div>

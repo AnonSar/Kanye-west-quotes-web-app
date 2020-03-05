@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-  z-index: 10;
 }
 
 /* Rules for the heading */
@@ -17,6 +16,8 @@
   font-family: 'Abril Fatface', sans-serif;
   text-decoration: line-through;
   transition: text-decoration 10s;
+  text-align: center;
+  text-align-last: center;
 }
 
 .heading-name:hover {
@@ -43,6 +44,7 @@
   margin-right: auto;
   font-family: 'Anton', sans-serif;
   font-size: 2rem;
+  text-align: center;
   text-align-last: center;
 }
 
@@ -75,14 +77,8 @@
 
 /* Rules for the background video */
 
-/* Style the video: 100% width and height to cover the entire window */
-
-.myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
+.backgroundVideo{
+  z-index: -1;
 }
 
 /* Rules for the background video */
