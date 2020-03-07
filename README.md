@@ -1,4 +1,4 @@
-<u> # Kanye West Quotes Web App </u>
+# Kanye West Quotes Web App
 
 **Developed in:** [REACT]( https://github.com/facebook/react )
 
