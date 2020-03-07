@@ -1,4 +1,4 @@
-# Kanye West Quotes Web App
+# Kanye West Quotes Web App :volcano:
 
 **Developed in:** [REACT]( https://github.com/facebook/react )
 
