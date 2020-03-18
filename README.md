@@ -1,4 +1,4 @@
-# Kanye West Quotes Web App :volcano:
+# Kanye West Quotes Web App :ocean:
 
 **Developed in:** [REACT]( https://github.com/facebook/react )
 
