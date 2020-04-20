@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f142a4a3302b1ed66bae42e1c5d4bbdf",
+    "revision": "8a1af8753d7404d3f86b354de91e6d1f",
     "url": "/Kanye-west-quotes-web-app/index.html"
   },
   {
-    "revision": "e1b4da97c5ae2a76f7e8",
+    "revision": "3a1286f85284de9d1724",
     "url": "/Kanye-west-quotes-web-app/static/css/main.9523578c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Kanye-west-quotes-web-app/static/js/2.9352fa46.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1b4da97c5ae2a76f7e8",
-    "url": "/Kanye-west-quotes-web-app/static/js/main.dccbf234.chunk.js"
+    "revision": "3a1286f85284de9d1724",
+    "url": "/Kanye-west-quotes-web-app/static/js/main.cf313c16.chunk.js"
   },
   {
     "revision": "839ce92827ca61ee33a9",
