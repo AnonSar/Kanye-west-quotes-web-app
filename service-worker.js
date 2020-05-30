@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Kanye-west-quotes-web-app/precache-manifest.bfe63f2a0eec6f7b7616724f7e01606f.js"
+  "/Kanye-west-quotes-web-app/precache-manifest.9380cd95cf5cfed07f1d1188e1c2601c.js"
 );
 
 self.addEventListener('message', (event) => {

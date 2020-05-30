@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Kanye-west-quotes-web-app/static/css/main.9523578c.chunk.css",
-    "main.js": "/Kanye-west-quotes-web-app/static/js/main.cf313c16.chunk.js",
-    "main.js.map": "/Kanye-west-quotes-web-app/static/js/main.cf313c16.chunk.js.map",
+    "main.js": "/Kanye-west-quotes-web-app/static/js/main.83ce394b.chunk.js",
+    "main.js.map": "/Kanye-west-quotes-web-app/static/js/main.83ce394b.chunk.js.map",
     "runtime-main.js": "/Kanye-west-quotes-web-app/static/js/runtime-main.2b4dd447.js",
     "runtime-main.js.map": "/Kanye-west-quotes-web-app/static/js/runtime-main.2b4dd447.js.map",
-    "static/js/2.9352fa46.chunk.js": "/Kanye-west-quotes-web-app/static/js/2.9352fa46.chunk.js",
-    "static/js/2.9352fa46.chunk.js.map": "/Kanye-west-quotes-web-app/static/js/2.9352fa46.chunk.js.map",
+    "static/js/2.41928eaa.chunk.js": "/Kanye-west-quotes-web-app/static/js/2.41928eaa.chunk.js",
+    "static/js/2.41928eaa.chunk.js.map": "/Kanye-west-quotes-web-app/static/js/2.41928eaa.chunk.js.map",
     "index.html": "/Kanye-west-quotes-web-app/index.html",
-    "precache-manifest.bfe63f2a0eec6f7b7616724f7e01606f.js": "/Kanye-west-quotes-web-app/precache-manifest.bfe63f2a0eec6f7b7616724f7e01606f.js",
+    "precache-manifest.9380cd95cf5cfed07f1d1188e1c2601c.js": "/Kanye-west-quotes-web-app/precache-manifest.9380cd95cf5cfed07f1d1188e1c2601c.js",
     "service-worker.js": "/Kanye-west-quotes-web-app/service-worker.js",
     "static/css/main.9523578c.chunk.css.map": "/Kanye-west-quotes-web-app/static/css/main.9523578c.chunk.css.map",
-    "static/js/2.9352fa46.chunk.js.LICENSE.txt": "/Kanye-west-quotes-web-app/static/js/2.9352fa46.chunk.js.LICENSE.txt",
+    "static/js/2.41928eaa.chunk.js.LICENSE.txt": "/Kanye-west-quotes-web-app/static/js/2.41928eaa.chunk.js.LICENSE.txt",
     "static/media/backgroundVideo.mp4": "/Kanye-west-quotes-web-app/static/media/backgroundVideo.4f878a42.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.2b4dd447.js",
-    "static/js/2.9352fa46.chunk.js",
+    "static/js/2.41928eaa.chunk.js",
     "static/css/main.9523578c.chunk.css",
-    "static/js/main.cf313c16.chunk.js"
+    "static/js/main.83ce394b.chunk.js"
   ]
 }
